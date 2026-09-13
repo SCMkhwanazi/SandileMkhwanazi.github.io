@@ -12,7 +12,6 @@ export function Hero() {
         className="absolute inset-0 h-full w-full object-cover"
         width={1920}
         height={1080}
-        priority="true"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/70 to-ink/30" />
       <div className="absolute inset-0 bg-gradient-to-r from-ink/80 to-transparent" />
