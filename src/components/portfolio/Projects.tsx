@@ -1,6 +1,6 @@
-import panelImg from "@/assets/project-panel.jpg";
-import navigateImg from "@/assets/project-navigate.jpg";
-import eventsImg from "@/assets/project-events.jpg";
+import panelImg from "@/assets/panelSA.png";
+import navigateImg from "@/assets/navigateSA.png";
+import eventsImg from "@/assets/HackTrack.png";
 
 const projects = [
   {
